@@ -10,6 +10,7 @@
 * Analysis and Preliminary Conclusion
 * What is the Hypothesis and Methodology?
 * Experimental and Practical Significance
+* More on p-value interpretation
 
 ---
 
@@ -41,3 +42,9 @@ relationship holds, we may have found the secret of **recession proof real estat
 ---?https://api.ning.com/files/uE8RR*zE7QJ00dZdttadIervGqseU2fN6obG5FMolN8*3ePNUGDknON4Pni3vkL2GwTGTws*-XHsO-65ehgq96ky6Lp6Rsyd/Capture.PNG
 
 ## What is hypothesis testing?
+
+---
+
+## More on Statistical Significance
+- http://www.dummies.com/education/math/statistics/what-a-p-value-tells-you-about-statistical-data/
+- http://blog.minitab.com/blog/understanding-statistics/what-can-you-say-when-your-p-value-is-greater-than-005
