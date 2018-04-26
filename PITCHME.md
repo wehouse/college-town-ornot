@@ -20,14 +20,12 @@
 ---
 
 ## Analysis and Preliminary Conclusion
-```
- <span style="color: #f2cf4a; font-family: Babas; font-size: 2em;">
+
 - **Scenario** We did some preliminary analysis and discovered something interesting, a few properties we checked in Berkeley, CA
 did not lose value as much during the recession as properties in neighborhoods away from it. 
 - On further examination we checked a few other locations like Princeton, NJ and came to realize that this may have to do with University Towns. We concluded that if this 
 relationship holds, we may have found the secret of **recession proof real estate investing**.
-</span>
-```
+
 
 ---
 
